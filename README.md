@@ -6,7 +6,9 @@ Mooveat est une start-up dont le but est de promouvoir les circuits-courts agric
 Pour promouvoir les circuits courts, Mooveat a développé une Web-App qui permettant de mapper l'ensemble des points de vente en circuits-courts. 
 
 Site : mooveat.co.
+
 Mailing-list : mooveat.1819@framalistes.org.
+
 Code source : gitlab.com/latitudes-exploring-tech-for-good/mooveat/1819_mooveat.
 
 ## À propos du projet
@@ -25,13 +27,14 @@ Le but du projet proposé par Mooveat est de produire une interface permettant �
 
 ## Contact
 Etudiants du S7 :
-	- Michel Richard : michel.richard@student.ecp.fr
-	- Alassane Diallo : alassane.diallo@student.ecp.fr
-	- Othmane Jebbari : othmane.jebbari@student.ecp.fr
+	* Michel Richard : michel.richard@student.ecp.fr
+	* Alassane Diallo : alassane.diallo@student.ecp.fr
+	* Othmane Jebbari : othmane.jebbari@student.ecp.fr
+
 Etudiants du S8 :
-	- Michel Richard (voir ci-dessus)
-	- Younes Berradia : younes.berradia@student.ecp.fr
-	- Dylan Ankrah : dylan.ankrah@student.ecp.fr
+	* Michel Richard (voir ci-dessus)
+	* Younes Berradia : younes.berradia@student.ecp.fr
+	* Dylan Ankrah : dylan.ankrah@student.ecp.fr
 
 Mentor : Michael Medioni : michael.medioni@gmail.com
 
