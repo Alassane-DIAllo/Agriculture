@@ -23,7 +23,8 @@ Le but du projet proposé par Mooveat est de produire une interface permettant �
 * Développer une fonctionnalité de crowdsourcing pour alimenter des bases de données et améliorer les prédictions. 
 
 ## Sommaire
-* Le sommaire du repo complet, des textes de descriptions vous sont fournis, copiez-collez-les.
+* Le dossier jalon 3 présente le rendu final de la première phase du projet (jusqu'à Janvier 2019) : les codes développés et le Jalon 3 qui résume tout le travail fournit.
+* Dans la documentation du projet se trouve la doc importante à propos du projet : liste de contacts, scope review où les objectifs de 2018 ont été fixés, une liste de sources de documentation (que l'on peut retrouver dane le Jalon2), Le jalon 2 qui résume toute la phase d'exploration du projet et le début du prototypage. Le dossier Front-End présente ce à quoi pourrait ressembler le Front-End final de la fonctionnalité développée. Le dossier Inra-BDD Aster-ix présente l'essentiel de ce qu'il y a à savoir sur la base de données Aster-ix (voir Jalon 3, le contexte y est spécifié).
 
 ## Contact
 Etudiants du S7 :
